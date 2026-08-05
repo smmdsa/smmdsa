@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @smmdsa
-- 👀 I’m interested in Game Development, blockchain, machine learning and make and breaking things
-- 🌱 I’m currently learning mainly blockchain, machine-learning apply to game dev. Main GameEngine Unity3d
-- 💞️ I’m looking to collaborate on blockchain games
-- 📫 How to reach me send me a pull request and see how it works for that :)
+### Santiago — AI Engineer / AI-Native Full-Stack Developer
 
+I ship products end-to-end with AI agent pipelines.
 
-More updates coming soon
-<!---
-smmdsa/smmdsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+10+ years of production engineering — games, web platforms, developer tooling.
+Ex-Tech Lead at **JamCity Studio** (Snoopy Pop, Frozen Adventure, Cookie Jam Blast).
+
+**Now:** building with agent pipelines as the delivery process, not as a helper.
+Claude Code + Claude API for spec decomposition and implementation, MCP-based tooling,
+custom agents running code review, test generation and docs inside CI.
+Building with LLMs since 2021.
+
+**Shipped:** [jugafy.com](https://jugafy.com) — zero-install browser gaming platform.
+Seven in-house titles, real-time multiplayer, full backend. Built end to end with that pipeline.
+
+`TypeScript` `React` `Node.js` `Python` `C#` `Unity3D` `Docker` `Linux` `WebSockets`
+
+Open to freelance and contract work — web apps, landing pages, internal tools, browser games.
+Montevideo, Uruguay (UTC−3) · [LinkedIn](https://linkedin.com/in/mrtiagosan) · 
